@@ -39,10 +39,6 @@ Config proxy sur Android :
 
 <img width="1901" height="485" alt="image" src="https://github.com/user-attachments/assets/496f07df-37fb-49a8-be08-a509a7e26477" />
 
-
-
-<img width="1089" height="698" alt="image" src="https://github.com/user-attachments/assets/bc4dc86b-ab41-4fb3-b902-3c06be15ec3e" />
-
 <img width="527" height="918" alt="image" src="https://github.com/user-attachments/assets/95c33754-6230-47e0-8d8a-27d1a7914088" />
 
 <img width="527" height="979" alt="image" src="https://github.com/user-attachments/assets/aa9fe131-273a-4d7a-a75c-87f01d8f5e6c" />
@@ -50,6 +46,8 @@ Config proxy sur Android :
 Créez sslpin_bypass_native.js
 
 <img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/27eb3881-331d-42b2-80c8-d4d8b3f83f3e" />
+
+<img width="1089" height="698" alt="image" src="https://github.com/user-attachments/assets/bc4dc86b-ab41-4fb3-b902-3c06be15ec3e" />
 
 <img width="1614" height="695" alt="image" src="https://github.com/user-attachments/assets/c8e2bc89-3b21-4595-857e-fb0e2415ca08" />
 
